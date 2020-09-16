@@ -1,0 +1,13 @@
+@media(max-width: 568px) {
+    .border {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .pimg1, .pimg2, .pimg3 {
+        background-attachment: scroll;
+    }
+
+    .card {
+        display: block;
+    }
+}
